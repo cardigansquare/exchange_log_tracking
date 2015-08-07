@@ -1,0 +1,20 @@
+{
+   "_id": "",
+   "_rev": "",
+   "eventid": "",
+   "reference": "",
+   "originalserverip": "",
+   "serverip": "",
+   "recipientaddress": "",
+   "returnpath": "",
+   "messagesubject": "",
+   "clientip": "",
+   "datetime": "",
+   "recipientcount": ,
+   "internalmessageid": ,
+   "totalbytes": ,
+   "relatedrecipientaddress": "",
+   "directionality": "",
+   "senderaddress": "",
+   "tenantid": ""
+}
